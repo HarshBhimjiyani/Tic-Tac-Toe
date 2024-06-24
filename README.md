@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
-Tic Tac Toe (Game) is a Mini Project with an implementation of Basics of HTML, CSS and JAVASCRIPT. <br>
+Tic-Tac-Toe is a mini project I built during the early stages of my learning in front-end development. It implements the basics of HTML, CSS, and JavaScript. <br>
 © 2024 HARSH BHIMJIYANI
