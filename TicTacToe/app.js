@@ -53,7 +53,6 @@ const gameDraw = () => {
   msg.innerText = `Game was a Draw.`;
   msgContainer.classList.remove("hide");
   main.classList.add("hide");
-  // disableBoxes();
 };
 
 // const disableBoxes = () => {
