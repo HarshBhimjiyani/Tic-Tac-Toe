@@ -14,9 +14,9 @@ h1 {
   margin-top: 6vmin;
   text-decoration: underline;
 }
+
 .container {
   height: 70vh;
-
   display: flex;
   justify-content: center;
   align-items: center;
